@@ -10,6 +10,8 @@ THUNDER_POINTER is a joystick-controlled dual-servo system designed for the ESP3
 * Laser diode (optional) ×1
 * External power supply (recommended)
 
+* Link to all 3D printable parts - https://www.printables.com/model/1622511-thunder-pointer
+
 ## The microcontroler
 
 The project was originally prototyped on a Raspberry Pi, but the final version targets the ESP32 due to better performance, lower latency, and more stable PWM control using C++.
